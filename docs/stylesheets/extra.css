@@ -12,3 +12,9 @@
 
     color: white
 }
+
+.md-logo {
+  img {
+    height: 82px !important;    
+   }
+}
