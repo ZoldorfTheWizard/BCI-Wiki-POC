@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://www.barcitizen.org/</loc>
+        <lastmod>2026-01-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.barcitizen.org/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://www.barcitizen.org/fr/"/>
+    </url>
+    <url>
+        <loc>https://www.barcitizen.org/FAQ/</loc>
+        <lastmod>2026-01-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.barcitizen.org/FAQ/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://www.barcitizen.org/fr/FAQ/"/>
+    </url>
+    <url>
+        <loc>https://www.barcitizen.org/Coordinators/Getting%20Started/</loc>
+        <lastmod>2026-01-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.barcitizen.org/Coordinators/Getting%20Started/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://www.barcitizen.org/fr/Coordinators/Getting%20Started/"/>
+    </url>
+    <url>
+        <loc>https://www.barcitizen.org/Coordinators/Useful%20Resources/</loc>
+        <lastmod>2026-01-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.barcitizen.org/Coordinators/Useful%20Resources/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://www.barcitizen.org/fr/Coordinators/Useful%20Resources/"/>
+    </url>
+    <url>
+        <loc>https://www.barcitizen.org/fr/</loc>
+        <lastmod>2026-01-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://www.barcitizen.org/fr/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.barcitizen.org/"/>
+    </url>
+    <url>
+        <loc>https://www.barcitizen.org/fr/FAQ/</loc>
+        <lastmod>2026-01-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://www.barcitizen.org/fr/FAQ/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.barcitizen.org/FAQ/"/>
+    </url>
+    <url>
+        <loc>https://www.barcitizen.org/fr/Coordinators/Getting%20Started/</loc>
+        <lastmod>2026-01-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://www.barcitizen.org/fr/Coordinators/Getting%20Started/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.barcitizen.org/Coordinators/Getting%20Started/"/>
+    </url>
+    <url>
+        <loc>https://www.barcitizen.org/fr/Coordinators/Useful%20Resources/</loc>
+        <lastmod>2026-01-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://www.barcitizen.org/fr/Coordinators/Useful%20Resources/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.barcitizen.org/Coordinators/Useful%20Resources/"/>
+    </url>
+</urlset>
